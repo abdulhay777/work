@@ -66,6 +66,7 @@ const content = {
                 <div class="col-12">
                     <button type="button" class="btn btn-outline-primary w-100" @click="addSelect">Добавить</button>
                     <button type="button" class="btn btn-outline-success w-100 mt-2" data-bs-toggle="modal" data-bs-target="#resultModal" @click="result">Результат</button>
+                    <a href="" class="btn btn-outline-danger w-100 mt-2">Очистка</a>    
                 </div>
             </div>
 
