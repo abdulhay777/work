@@ -47,12 +47,14 @@ const content = {
                         <option disabled selected>Работники</option>
                         <option value="Мукаддас">Мукаддас</option>
                         <option value="Дилшода">Дилшода</option>
-                        <option value="Наргиза">Наргиза</option>
-                        <option value="Мадина">Мадина</option>
+                        <option value="Соадат">Соадат</option>
+                        <option value="Феруза">Феруза</option>
                         <option value="Зиеда">Зиеда</option>
-                        <option value="Мехринисо">Мехринисо</option>
+                        <option value="Насиба">Насиба</option>
                         <option value="Гулноза">Гулноза</option>
-                        <option value="Гулчехра">Гулчехра</option>
+                        <option value="Гулнора">Гулнора</option>
+                        <option value="Дилробия">Дилробия</option>
+                        <option value="Наргиза">Наргиза</option>
                     </select>
                 </div>
 
